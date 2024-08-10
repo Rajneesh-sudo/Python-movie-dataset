@@ -58,3 +58,4 @@ high_mean_1 = grouped['num_critic_for_reviews'].mean()
 high_mean_2 = grouped['num_user_for_reviews'].mean()
 
 
+
